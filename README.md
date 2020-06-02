@@ -4,7 +4,7 @@
     <img src="https://raw.githubusercontent.com/surmon-china/vuniversal/master/presses/logo.png" width="195">
   </a>
 </p>
-<p align="center">Create vue (3) universal web applications quickly.</p>
+<p align="center">Create vue (3) universal web applications quickly by <a href="https://github.com/vitejs">vite</a>.</p>
 <br>
 <p align="center">
   <a href="https://www.npmjs.com/package/vuniversa" target="_blank">

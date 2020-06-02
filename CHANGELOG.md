@@ -1,6 +1,9 @@
 # Changelog
 All notable changes to this project will be documented in this file.
 
+### 0.1.0 (2020-06-02)
+- Powered by vite
+
 ### 0.0.13 (2020-05-14)
 
 **Feature**
